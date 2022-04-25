@@ -1,0 +1,43 @@
+Windows Cmmand Lines
+
+cd
+dir
+mkdir
+del/rmdir
+
+echo printa no terminal algo qeu digitei
+echo hello > hello.txt *eu redireciono o texto hello para o arquivo hello.txt
+
+del meuDiretorio * del somente deleta arquivos dentro do meu repositorio nao o repositorio em si
+
+rmdir wordspace /S /Q */S /Q eh uma flag e rmdir eh pra remover um diretorio
+
+SHA1
+tesste
+comando openssl sha1 nomedoarquivo.txt
+SHA1(nomedoarquivo.txt)= a9f5c575a564e0fdbd539c5c4498f32df271a44b
+
+COMANDOS GIT
+
+Entrar na pasta *git bash here* cd workspace
+cris_@LAPTOP-USTGTM7F MINGW64 /c/workspace
+$ mkdir livro-receitas
+
+cris_@LAPTOP-USTGTM7F MINGW64 /c/workspace
+$ cd livro-receitas/
+
+cris_@LAPTOP-USTGTM7F MINGW64 /c/workspace/livro-receitas
+$ git init
+Initialized empty Git repository in C:/workspace/livro-receitas/.git/
+
+cris_@LAPTOP-USTGTM7F MINGW64 /c/workspace/livro-receitas (master)
+$ls
+
+O COMANDO ls -a MOSTRA OS ARQUIVOS OCULTOS DA PASTA
+cris_@LAPTOP-USTGTM7F MINGW64 /c/workspace/livro-receitas (master)
+$ ls -a
+./  ../  .git/
+
+
+
+
