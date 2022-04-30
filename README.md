@@ -1,3 +1,3 @@
 # Repositório do desafio de projeto sobre git/github da DIO
 
-Repositorio criado para o desafio de Projeto 
+Este repositório foi criado com o intuito de mostrar os desafios de Projeto propostos, codificados por mim, bem como anotações dos trabalhos que realizei durante o percurso do bootcamp; 
