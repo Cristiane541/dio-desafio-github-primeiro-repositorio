@@ -1,0 +1,24 @@
+26/04/22
+
+Links sugeridos:
+https://jqueryui.com/
+https://www.w3schools.com/html/default.asp
+https://www.visualdicas.com.br/programacao/css/99-como-colocar-imagens-nos-marcadores-de-uma-lista-htm-nao-ordenada-com-css
+
+Sites interessantes:
+https://riptutorial.com/Download/jquery-ui-library.pdf
+
+Notes:
+Javascript e CSS não sao nativos do navegador, assim, deve-se fazer imports deles
+
+
+27/04/22
+dentro das tags body 
+<body>
+	<header><h1>Isso eh um cabeçalho</h1></header>
+
+	#pode ser add uma section e outro cabeçalho nela
+	<section>
+		<header><h2>Posts</h2></header>
+	</section>
+</body>

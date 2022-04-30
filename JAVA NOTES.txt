@@ -1,0 +1,16 @@
+* import packages; nao pode haver mais de um tipo de pacote especificado
+                   na classe java e tem que ser o primeiro a ser declarado
+
+* import others example ->java.util.Date
+
+* a class statements can be interface, enum etc
+* a class have methods, fild declaration, constructors and initializers;
+
+int a = 2;
+int b = 5;
+int c = b * a * (a++ - --b) * a * b;
+
+int c = 5 * 2 * (2 - 4) * 3 * 4; //240
+
+*https://www.javatpoint.com/method-overloading-in-java 
+site para testar codigos java e outros programas
