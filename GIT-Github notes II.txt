@@ -1,0 +1,21 @@
+UNDO Reinitialized existing Git repository Made a mistake
+
+This sovled the issue. If you had a previous mistake in git and want to delete it then do
+
+rm -rf .git
+Then do: git init
+-----------------------------------------
+
+$ git init
+$ ls
+$ git add .
+$ git commit -m "1Commit"
+$ git remote  add origin https://github.com/Cristiane541/NetflixRepository.git
+$ git remote -v
+$ git push -f origin master
+
+
+
+
+
+
